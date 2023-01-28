@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"X:/Projects/Unreal Projects/JMGameOne/JMGameOne/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+			]
+		}
+	]
+}
