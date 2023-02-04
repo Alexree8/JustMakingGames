@@ -10,7 +10,6 @@
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/Levels/ThirdPersonMap.umap",
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/BaseGameElements/MainGameInstance.uasset",
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/UI/Menu/MainMenuWB.uasset",
-				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/UI/Fonts/lt-sip-text-4.uasset",
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/BaseGameElements/MainMenuGameMode.uasset",
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/__ExternalActors__/Levels/MainLocations/0/7A/S7194SG85JA944SB4FF8UB.uasset",
@@ -19,9 +18,7 @@
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/__ExternalActors__/Levels/MainLocations/C/V1/T45IOV3JSJXVYY2U214FIU.uasset",
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/__ExternalActors__/Levels/MainLocations/7/H2/6UWY2SQFKOJ4XAXZOI5ARJ.uasset",
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/__ExternalActors__/Levels/MainLocations/C/PG/J82FNPGT6EXFBMHO744UOR.uasset",
-				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/__ExternalActors__/Levels/MainLocations/2/YN/V08CVXPY1OE7SJ4XZ6UIRG.uasset",
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/__ExternalActors__/Levels/MainLocations/8/6X/K2KB1H4KGS78EYZS3RAT00.uasset",
-				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/__ExternalActors__/Levels/MainLocations/2/ER/D8K59KO4BN2SF5R9574SE9.uasset",
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/__ExternalActors__/Levels/MainLocations/7/PD/INYSKQ6UJ7LWTV9R7WNHVZ.uasset",
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/__ExternalActors__/Levels/MainLocations/5/KH/02MHKFFUQIE0IDXSDLUQ84.uasset",
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/__ExternalActors__/Levels/MainLocations/2/YB/8VAQP4CAL7DRYZC8I9M4HN.uasset",
@@ -38,6 +35,11 @@
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/__ExternalObjects__/Levels/MainLocations/C/JC/NP8UU49USFK65NJSX32CAM.uasset",
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/Levels/MainLocations.umap",
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/Levels/ThirdPersonMap_2.umap",
+				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/UI/DialogSystem/Dialogue.uasset",
+				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/UI/DialogueSystem/Dialogue.uasset",
+				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/UI/Fonts/lt-sip-text-4.uasset",
+				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/__ExternalActors__/Levels/MainLocations/2/YN/V08CVXPY1OE7SJ4XZ6UIRG.uasset",
+				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/__ExternalActors__/Levels/MainLocations/2/ER/D8K59KO4BN2SF5R9574SE9.uasset",
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/Widjet/Menu/MainMenu.uasset",
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/Widjet/MainMenu.uasset",
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/Widjet/Menu/MainMenuWB.uasset",
@@ -64,7 +66,6 @@
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/__ExternalActors__/Levels/ThirdPersonMap_2/A/0P/2Y8G4P5ELMDX9G7TM77RF7.uasset",
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/__ExternalObjects__/Levels/ThirdPersonMap_2/3/2R/E6KTHN4T34F1TX7RM651CX.uasset",
 				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/__ExternalObjects__/Levels/ThirdPersonMap_2/D/43/SH3VRBYEQNJ45KQQX1G3IG.uasset",
-				"X:/Projects/Unreal Projects/JMG/JustMakingGames/JMGameOne/Content/Levels/ThirdPersonMap_2.umap",
 				"X:/Projects/Unreal Projects/JMGameOne/JMGameOne/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
 			]
 		}
